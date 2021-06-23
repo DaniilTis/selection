@@ -1,0 +1,43 @@
+h3 {
+	color: white;
+	background-color: black;
+}
+
+.first-item {
+	background-color: green;
+	font-size: 45px;
+}
+
+#content {
+	font-size: 30px;
+	background-color: grey;
+	color: aqua;
+}
+
+.item {
+	font-size: 25px;
+	color: blue;
+	background-color: yellow;
+}
+
+li > p {
+	background: pink;
+	color: tomato;
+	font-size: 30px;
+}
+
+h4 {
+	background-color: teal;
+	font-size: 30px;
+}
+h4 + p {
+	background-color: blue;
+	color: violet;
+	font-size: 20px;
+}
+
+li a {
+	color: red;
+	background-color: darkblue;
+	font-size: 30px;
+}
